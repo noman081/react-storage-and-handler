@@ -1,0 +1,82 @@
+[
+    {
+      "id": "623862a681e1462ff7bc8c3f",
+      "age": 28,
+      "name": "Dolly Kline",
+      "gender": "female",
+      "email": "dollykline@terascape.com",
+      "phone": "+1 (999) 498-2134"
+    },
+    {
+      "id": "623862a6305b920a7f0fcb2a",
+      "age": 30,
+      "name": "Ford Kennedy",
+      "gender": "male",
+      "email": "fordkennedy@terascape.com",
+      "phone": "+1 (826) 469-3268"
+    },
+    {
+      "id": "623862a6e30600b5aa3347d5",
+      "age": 29,
+      "name": "Herman Holder",
+      "gender": "male",
+      "email": "hermanholder@terascape.com",
+      "phone": "+1 (873) 404-3177"
+    },
+    {
+      "id": "623862a6eaf7d783a116921c",
+      "age": 33,
+      "name": "Myrtle Higgins",
+      "gender": "female",
+      "email": "myrtlehiggins@terascape.com",
+      "phone": "+1 (901) 547-3828"
+    },
+    {
+      "id": "623862a65c3c002c30dc6270",
+      "age": 36,
+      "name": "Sylvia Briggs",
+      "gender": "female",
+      "email": "sylviabriggs@terascape.com",
+      "phone": "+1 (950) 588-3351"
+    },
+    {
+      "id": "623862a6a5863437acc80f51",
+      "age": 25,
+      "name": "Joann Moore",
+      "gender": "female",
+      "email": "joannmoore@terascape.com",
+      "phone": "+1 (859) 474-2881"
+    },
+    {
+      "id": "623862a6a6d8202e167adcdc",
+      "age": 32,
+      "name": "Montgomery Irwin",
+      "gender": "male",
+      "email": "montgomeryirwin@terascape.com",
+      "phone": "+1 (988) 489-2182"
+    },
+    {
+      "id": "623862a6709262b7a999a57e",
+      "age": 26,
+      "name": "Jessica Barnes",
+      "gender": "female",
+      "email": "jessicabarnes@terascape.com",
+      "phone": "+1 (833) 499-3627"
+    },
+    {
+      "id": "623862a693df8540572fe846",
+      "age": 20,
+      "name": "Santana Huff",
+      "gender": "male",
+      "email": "santanahuff@terascape.com",
+      "phone": "+1 (920) 525-2930"
+    },
+    {
+      "id": "623862a65a0ecc38ab71cf2f",
+      "age": 30,
+      "name": "Glenna Reid",
+      "gender": "female",
+      "email": "glennareid@terascape.com",
+      "phone": "+1 (903) 458-2627"
+    }
+  ]
