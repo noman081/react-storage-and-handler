@@ -1,0 +1,21 @@
+.user{
+    border: 3px solid slateblue;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 20px;
+}
+.id-button{
+    padding: 10px 20px;
+    background-image: linear-gradient(rgb(236, 21, 218), rgb(255, 94, 0));
+    color: white;
+    border: 0px solid white;
+    border-radius: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    margin: 10px 20px;
+}
+.id-button:hover{
+    background-image: linear-gradient(rgb(21, 150, 236), rgb(4, 0, 255));
+    color: white;
+    border: 0px solid red;
+}

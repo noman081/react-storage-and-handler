@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import './Users.css';
 import User from '../User/User';
 
 const Users = () => {
@@ -11,9 +12,11 @@ const Users = () => {
     return (
         <div>
             <h1>Welcome to user file:-</h1>
-            {
-                users.map(user => <User key={user.id} user={user}></User>)
-            }
+            <div className='users'>
+                {
+                    users.map(user => <User key={user.id} user={user}></User>)
+                }
+            </div>
         </div>
     );
 };
